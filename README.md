@@ -8,7 +8,7 @@ The goal of this project was to create a simple website that I could deploy onli
 
 Add your GitHub Pages link here:
 
-`https://yourusername.github.io/cloud-portfolio`
+(https://markebinaizer.github.io/cloud-portfolio/)
 
 ##  About the Project
 
